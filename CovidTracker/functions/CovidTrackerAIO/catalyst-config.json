@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "CovidTrackerAIO",
+		"stack": "java8",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "CovidTrackerAIO"
+	}
+}

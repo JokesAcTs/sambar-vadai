@@ -1,0 +1,16 @@
+{
+  "functions": {
+    "targets": [
+      "CovidTrackerAIO"
+    ],
+    "ignore": [
+      ".output",
+      ".project",
+      ".classpath"
+    ],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
